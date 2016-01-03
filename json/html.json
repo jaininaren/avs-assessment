@@ -1,0 +1,117 @@
+{
+   
+   
+    "q1":{
+            "question" : "1. _______ Function displays the Latitude and Longitude in geoLcation in HTML5",
+            "options"  :{
+                "option1" : "showLocation()",
+                "option2" : "showPosition()",
+                "option3" : "both above",
+                "option4" : "showStatus()"
+                },
+            "answer" : "2"
+            },
+       
+    "q2":{
+            "question" : "2. In SVG, there is a support for event handlers",
+            "options"  :{
+                "option1" : "True",
+                "option2" : "False",
+                "option3" : "can't determine",
+                "option4" : "none"
+                },
+            "answer" : "1"
+            }, 
+    
+    "q3":{
+            "question" : "3. Canvas is able to draw the 2D graphics using _____",
+            "options"  :{
+                "option1" : "XML",
+                "option2" : "JavaScript",
+                "option3" : "HTML",
+                "option4" : "XHTML"
+                },
+            "answer" : "2"
+            },
+    
+    "q4":{
+            "question" : "4. Which storage object is used for storing the data with no expiry date?",
+            "options"  :{
+                "option1" : "Session storage",
+                "option2" : "Local storage",
+                "option3" : "Mass storage",
+                "option4" : "Stack storage"
+                },
+            "answer" : "2"
+            },
+    
+    "q5":{
+            "question" : "5. The manifest file is _____________",
+            "options"  :{
+                "option1" : "Text file",
+                "option2" : "HTML file",
+                "option3" : "Java script file",
+                "option4" : "xml file"
+                },
+            "answer" : "1"
+            },
+    
+    "q6":{
+            "question" : "6. terminate() method in HTML5 is used for______",
+            "options"  :{
+                "option1" : "terminate everything",
+                "option2" : "terminate all method",
+                "option3" : "termainate a web worker",
+                "option4" : "terminate program"
+                },
+            "answer" : "3"
+            },
+     "q7":{
+            "question" : "7. Which element provides a secure way to authenticate the user?",
+            "options"  :{
+                "option1" : "keygen",
+                "option2" : "datalist",
+                "option3" : "output",
+                "option4" : "input"
+                },
+            "answer" : "1"
+            },
+       
+    "q8":{
+            "question" : "8. DHTML is the combination of",
+            "options"  :{
+                "option1" : "HTML, CSS",
+                "option2" : "HTML DOM",
+                "option3" : "JavaScript",
+                "option4" : "all the above"
+                },
+            "answer" : "4"
+            }, 
+    
+    "q9":{
+            "question" : "9. What is W3C?",
+            "options"  :{
+                "option1" : "World Wide Web Consortium",
+                "option2" : "world wide web corporation",
+                "option3" : "world wide web company",
+                "option4" : "world wide web company"
+                },
+            "answer" : "1"
+            },
+    
+    "q10":{
+            "question" : "10. _____can open a link in a new browser window.",
+            "options"  :{
+                "option1" : "< a href =”url” new>",
+                "option2" : "< a href =”url” target=”_blank”>",
+                "option3" : "< a href =”url” target=”new”>",
+                "option4" : "< a href=”url” target=”_parent”>"
+                },
+            "answer" : "2"
+            }
+}
+    
+   
+   
+   
+  

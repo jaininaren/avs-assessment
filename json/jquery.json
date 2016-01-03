@@ -1,0 +1,117 @@
+{
+   
+   
+    "q1":{
+            "question" : "1. which of the following is true about jQuery Selectors?",
+            "options"  :{
+                "option1" : "jQuery Selectors are used to select one or a group of HTML elements from your web page.",
+                "option2" : "jQuery support all the CSS selectors as well as many additional custom selectors.",
+                "option3" : "jQuery selectors always start with dollar sign and parentheses: $()",
+                "option4" : "all the above"
+                },
+            "answer" : "4"
+            },
+       
+    "q2":{
+            "question" : "2. How do you hide an image on a button click using jQuery?",
+            "options"  :{
+                "option1" : "$('#ImageToHide').hide();",
+                "option2" : "$('#ImageToHide').css('visibility','hidden');",
+                "option3" : "either of above two",
+                "option4" : "$('#ImageToHide').css('display','none');"
+                },
+            "answer" : "3"
+            }, 
+    
+    "q3":{
+            "question" : "3. In what scenarios jQuery can be used?",
+            "options"  :{
+                "option1" : "Apply CSS static or dynamic",
+                "option2" : "Calling functions on events",
+                "option3" : "Mainly for Animation effects",
+                "option4" : "all of the above"
+                },
+            "answer" : "4"
+            },
+    
+    "q4":{
+            "question" : "4. What is the difference between size and length of jQuery?",
+            "options"  :{
+                "option1" : "Size and length both returns the number of element in an object.",
+                "option2" : "Size and length both returns the number of element in an object. But length is faster than the size because length is a property and size is a method.",
+                "option3" : "Size and length both returns the number of element in an object. But size is faster than the size because size is a property and length is a method.",
+                "option4" : "none"
+                },
+            "answer" : "2"
+            },
+    
+    "q5":{
+            "question" : "5. What are the four parameters used for jQuery Ajax method?",
+            "options"  :{
+                "option1" : "URL, type, data, catche",
+                "option2" : "URL, type, data, filter",
+                "option3" : "URL, type, data, key",
+                "option4" : "URL, type, data, argument"
+                },
+            "answer" : "1"
+            },
+    
+    "q6":{
+            "question" : "6. Which of the following are selectors in jQuery?",
+            "options"  :{
+                "option1" : "CSS selectors",
+                "option2" : "XPath Selector",
+                "option3" : "Custom Selector",
+                "option4" : "all the above"
+                },
+            "answer" : "4"
+            },
+     "q7":{
+            "question" : "7. Which sign does jQuery use as a shortcut for jQuery?",
+            "options"  :{
+                "option1" : "the ? Sign",
+                "option2" : "the % Sign",
+                "option3" : "the $ Sign",
+                "option4" : "the # Sign"
+                },
+            "answer" : "3"
+            },
+       
+    "q8":{
+            "question" : "8. $('div.intro'). What does it select?",
+            "options"  :{
+                "option1" : "The first div element with id='intro'",
+                "option2" : "The first div element with class='intro'",
+                "option3" : "All div elements with id='intro'",
+                "option4" : "All div elements with class='intro'"
+                },
+            "answer" : "4"
+            }, 
+    
+    "q9":{
+            "question" : "9. Which built-in method returns the index within the calling String object of the first occurrence of the specified value?",
+            "options"  :{
+                "option1" : "getIndex()",
+                "option2" : "location()",
+                "option3" : "indexOf",
+                "option4" : "none"
+                },
+            "answer" : "3"
+            },
+    
+    "q10":{
+            "question" : "10. Which of the following jQuery method checks if event.stopImmediatePropagation() was ever called on this event object?",
+            "options"  :{
+                "option1" : "isDefaultPrevented()",
+                "option2" : "isPropagationStopped()",
+                "option3" : "isImmediatePorpagationStopped()",
+                "option4" : "None of the above"
+                },
+            "answer" : "3"
+            }
+}
+    
+   
+   
+   
+  

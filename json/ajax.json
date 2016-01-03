@@ -1,0 +1,117 @@
+{
+   
+   
+    "q1":{
+            "question" : "1. Why so JavaScript and Java have similar name?",
+            "options"  :{
+                "option1" : "JavaScript is a stripped-down version of Java",
+                "option2" : "They both originated on the island of Java",
+                "option3" : "JavaScript's syntax is loosely based on Java's",
+                "option4" : "None of the above"
+                },
+            "answer" : "3"
+            },
+       
+    "q2":{
+            "question" : "2. Using AJAX we can made our web page.",
+            "options"  :{
+                "option1" : "Easy to connect web page with server",
+                "option2" : "More dynamic",
+                "option3" : "More interactive and faster",
+                "option4" : "None of the above"
+                },
+            "answer" : "3"
+            }, 
+    
+    "q3":{
+            "question" : "3. What combination of technologies gives AJAX its name?",
+            "options"  :{
+                "option1" : "Atlas and XML",
+                "option2" : "Asynchronous JavaScript and XML",
+                "option3" : "Autonomic Computing and DHTML",
+                "option4" : "ASP and XAML"
+                },
+            "answer" : "2"
+            },
+    
+    "q4":{
+            "question" : "4.  When a user views a page containing a JavaScript program, which machine actually executes the script?",
+            "options"  :{
+                "option1" : "The Web server",
+                "option2" : "A central machine deep within Netscape's corporate offices",
+                "option3" : "The User's machine running a Web browser",
+                "option4" : "None of the above"
+                },
+            "answer" : "3"
+            },
+    
+    "q5":{
+            "question" : "5. AJAX made popular by",
+            "options"  :{
+                "option1" : "Microsoft",
+                "option2" : "Google",
+                "option3" : "IBM",
+                "option4" : "un Microsystem"
+                },
+            "answer" : "2"
+            },
+    
+    "q6":{
+            "question" : "6. The XMLHttpRequest object can be disabled via browser settings.",
+            "options"  :{
+                "option1" : "false",
+                "option2" : "true",
+                "option3" : "can't possible",
+                "option4" : "none"
+                },
+            "answer" : "1"
+            },
+     "q7":{
+            "question" : "7. What does the < noscript> tag do?",
+            "options"  :{
+                "option1" : "Describes certain low-budget movies.",
+                "option2" : "Enclose text to be displayed by non-JavaScript browsers.",
+                "option3" : "Prevents scripts on the page from executing.",
+                "option4" : "none"
+                },
+            "answer" : "2"
+            },
+       
+    "q8":{
+            "question" : "8. Which one of these libraries does not include Drag and Drop support:",
+            "options"  :{
+                "option1" : "GWT",
+                "option2" : "Dojo",
+                "option3" : "YUI",
+                "option4" : "Script.aculo.us"
+                },
+            "answer" : "1"
+            }, 
+    
+    "q9":{
+            "question" : "9. Which Javascript library listed below comes with an Accordion Widget?",
+            "options"  :{
+                "option1" : "Rico",
+                "option2" : "JQuery",
+                "option3" : "Prototype",
+                "option4" : "YUI"
+                },
+            "answer" : "1"
+            },
+    
+    "q10":{
+            "question" : "10. Script.aculo.us is:",
+            "options"  :{
+                "option1" : "a javascript effects library",
+                "option2" : "a cross browser compatibility library",
+                "option3" : "used for static web content",
+                "option4" : "an alternative to Prototype"
+                },
+            "answer" : "1"
+            }
+}
+    
+   
+   
+   
+  

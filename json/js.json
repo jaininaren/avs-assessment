@@ -1,0 +1,117 @@
+{
+   
+   
+    "q1":{
+            "question" : "1. What label catches all values except those specified?",
+            "options"  :{
+                "option1" : "otherwise",
+                "option2" : "default",
+                "option3" : "any",
+                "option4" : "all"
+                },
+            "answer" : "2"
+            },
+       
+    "q2":{
+            "question" : "2.  Which event cannot be run globally?",
+            "options"  :{
+                "option1" : "onload",
+                "option2" : "onkeypress",
+                "option3" : "onclick",
+                "option4" : "all can run globally"
+                },
+            "answer" : "4"
+            }, 
+    
+    "q3":{
+            "question" : "3. What value is returned by getMonth in April?",
+            "options"  :{
+                "option1" : "2",
+                "option2" : "3",
+                "option3" : "4",
+                "option4" : "5"
+                },
+            "answer" : "2"
+            },
+    
+    "q4":{
+            "question" : "4. How do you define a numerical value?",
+            "options"  :{
+                "option1" : "var mynum = new Math;",
+                "option2" : " var mynum = Math(6);",
+                "option3" : "var mynum = 6;",
+                "option4" : " Math.mynum = 6;"
+                },
+            "answer" : "3"
+            },
+    
+    "q5":{
+            "question" : "5. < noscript > tags will work",
+            "options"  :{
+                "option1" : "only with external Javascripts",
+                "option2" : "with internal and external Javascripts",
+                "option3" : "whether or not there is any Javascript",
+                "option4" : "only in browsers that don't know what Javascript is"
+                },
+            "answer" : "3"
+            },
+    
+    "q6":{
+            "question" : "6. The same object can have how many properties and methods?",
+            "options"  :{
+                "option1" : "one or the other",
+                "option2" : "one of each",
+                "option3" : "as many as you want of one or the other",
+                "option4" : "as many of both as you want"
+                },
+            "answer" : "4"
+            },
+     "q7":{
+            "question" : "7. The code to obtain a random number between 5 and 9 inclusive is:",
+            "options"  :{
+                "option1" : "Math.floor((Math.random() * 5) + 4);",
+                "option2" : "Math.floor((Math.random() * 4) + 4)",
+                "option3" : "Math.floor((Math.random() * 4) + 5)",
+                "option4" : "Math.floor((Math.random() * 5) + 5)"
+                },
+            "answer" : "4"
+            },
+       
+    "q8":{
+            "question" : "8. You define an array using",
+            "options"  :{
+                "option1" : "var new array = myarray;",
+                "option2" : "var myarray = array new;",
+                "option3" : "var new Array() = myarray;",
+                "option4" : "var myarray = new Array();"
+                },
+            "answer" : "4"
+            }, 
+    
+    "q9":{
+            "question" : "9. What is the correct way to write a JavaScript array?",
+            "options"  :{
+                "option1" : "var colors = (1:'red', 2:'green', 3:'blue')",
+                "option2" : "var colors = ['red', 'green', 'blue']",
+                "option3" : "var colors = 'red', 'green', 'blue'",
+                "option4" : "var colors = 1 = ('red'), 2 = ('green'), 3 = ('blue')"
+                },
+            "answer" : "2"
+            },
+    
+    "q10":{
+            "question" : "10. What is the correct JavaScript syntax to change the content of the HTML element below?                    < p id='demo' > This is a demonstration.</p>",
+            "options"  :{
+                "option1" : "document.getElementByName('p').innerHTML = 'Hello World!';",
+                "option2" : "#demo.innerHTML = 'Hello World!';",
+                "option3" : "document.getElementById('demo').innerHTML = 'Hello World!';",
+                "option4" : "document.getElement('p').innerHTML = 'Hello World!';"
+                },
+            "answer" : "3"
+            }
+}
+    
+   
+   
+   
+  

@@ -1,0 +1,117 @@
+{
+   
+   
+    "q1":{
+            "question" : "1. An example of a CSS shorthand property is ",
+            "options"  :{
+                "option1" : "Position",
+                "option2" : "Font",
+                "option3" : "Image",
+                "option4" : "Display"
+                },
+            "answer" : "2"
+            },
+       
+    "q2":{
+            "question" : "2. What is the “hasLayout” property?",
+            "options"  :{
+                "option1" : "It is the converse of the “hasNoLayout “ property",
+                "option2" : "It is a property that can be set to either “left” or “right”",
+                "option3" : "It is an internal property, which is IE-specific",
+                "option4" : "It is a way to explicitly place an element in an HTML table"
+                },
+            "answer" : "3"
+            }, 
+    
+    "q3":{
+            "question" : "3. Which of the following is correct syntax when using the @media rule?",
+            "options"  :{
+                "option1" : "@ media screen;print",
+                "option2" : "@ media 'screen''print'",
+                "option3" : "@ media screen print",
+                "option4" : "@ media screen,print"
+                },
+            "answer" : "4"
+            },
+    
+    "q4":{
+            "question" : "4. What is your father NameFrom inside to out, the CSS Box Model includes ___________",
+            "options"  :{
+                "option1" : "Content, padding, border, and margin",
+                "option2" : "Content, padding, and margin",
+                "option3" : "Box, padding, and margin",
+                "option4" : "Box, padding, border, and margin"
+                },
+            "answer" : "1"
+            },
+    
+    "q5":{
+            "question" : "5. Identify the valid declaration.",
+            "options"  :{
+                "option1" : "Border-style: dotted solid;",
+                "option2" : "Border-style: dotted solid double dashed;",
+                "option3" : "Border-style: dotted;",
+                "option4" : "All of the above"
+                },
+            "answer" : "4"
+            },
+    
+    "q6":{
+            "question" : "6. Which of the following statements is NOT true regarding Style sheets?",
+            "options"  :{
+                "option1" : "There is a limit as to how many external style sheets some browsers will read",
+                "option2" : "Using multiple external style sheets is not advisable",
+                "option3" : "Internal and external style sheets can be used in conjunction with each other",
+                "option4" : "On any given web page, you can selectively link one or more external spreadsheets"
+                },
+            "answer" : "2"
+            },
+     "q7":{
+            "question" : "7. The total width of a div styled as per the below CSS is _________ div { width: 100px; padding-right: 10px; margin: 10px; }",
+            "options"  :{
+                "option1" : "130px",
+                "option2" : "120px",
+                "option3" : "100px",
+                "option4" : "110px"
+                },
+            "answer" : "1"
+            },
+       
+    "q8":{
+            "question" : "8. A global style sheet can be used to affect and style elements _____________",
+            "options"  :{
+                "option1" : "Only when the element has either an ID or a class",
+                "option2" : "Only when the element has an ID",
+                "option3" : "Only when the element has a class",
+                "option4" : "Regardless of whether or not the element has an ID or a class"
+                },
+            "answer" : "4"
+            }, 
+    
+    "q9":{
+            "question" : "9. The CSS 'outline' property includes:",
+            "options"  :{
+                "option1" : "Style, color and width",
+                "option2" : "Ordered vs. unordered setting",
+                "option3" : "Indent level",
+                "option4" : "Symbol vs. numeric setting"
+                },
+            "answer" : "1"
+            },
+    
+    "q10":{
+            "question" : "10. The 'font' shorthand property allows us to specify the following within a single declaration",
+            "options"  :{
+                "option1" : "Font style, weight, decoration, and family",
+                "option2" : "Font family and size, but not line-height",
+                "option3" : "Font style, weight, size, line-height, and family",
+                "option4" : "Font family and size, but not style"
+                },
+            "answer" : "3"
+            }
+}
+    
+   
+   
+   
+  

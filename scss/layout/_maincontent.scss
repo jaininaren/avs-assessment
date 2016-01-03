@@ -1,0 +1,71 @@
+.main-content{
+    min-height: 500px;
+    box-sizing: border-box;
+    .left-content,.right-content{
+        width: calc(50% - 2px);
+        float: left;
+        display: inline-block;
+    }
+    .left-content{
+        img{
+            width: 100%;
+            height: 466px;
+        }
+    }
+    .right-content{
+        overflow-y: scroll;
+        height: 466px;
+        p{
+            padding: 5px;
+            margin-left: 18px;
+        }
+    }
+    .nextbtn{
+        width: 100px;
+        height: 25px;
+        font-size: 18px;
+        float: right;
+        margin: 24px;
+        color: blue;
+        text-align: center;
+    }
+    .chbox{
+        margin: 18px 15px 15px 20px;
+    }
+    .qno{
+        font-size: 17px;
+        padding: 8px;
+    }
+    table, th, td {
+        border: 1px solid #000;
+    }
+    table{
+        margin: 0 auto;
+        width: 60%;
+    }
+    th, td{
+        padding: 20px 50px;
+    }
+    th{
+        background-color: cornflowerblue;
+    }
+    td{
+        width: 50%;
+    }
+}
+#aboutContent, #contactContent, #scoreContent{
+    clear: both;
+    padding: 24px;
+    p{
+        width:65%;
+        padding: 20px 18px;
+        border: 4px solid blue;
+        outline: 1px solid blue;
+        border-radius: 8px;
+        margin: 10px auto;
+    }
+    img{
+        float: left;
+        margin-right: 10px;
+    }
+}
