@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Assess Your Skills</title>
+        <link rel="stylesheet" href="css/main.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
+        <script type="text/javascript" src="lib/jquery-1.9.1.js"></script>
+        <script type="text/javascript" src="js/script.js"></script>        
+    </head>
+    <body>
+        <header>
+            <h1>AYS&nbsp;<span>assessment of your skills</span></h1>
+            <hr>
+        </header>
+        <nav class="nav">
+            <ul class="main-nav">
+                <li id="home"><a href="#">Home</a></li>
+                <li id="tests"><a href="#">Tests</a>
+                    <div id="testlist" class="sub-nav" style="display:none">
+                        <span id="html"><a href="#">HTML5</a></span>
+                        <span id="css"><a href="#">CSS3</a></span>
+                        <span id="jsc"><a href="#">JavaScript</a></span>
+                        <span id="jquery"><a href="#">JQuery</a></span>
+                        <span id="ajax"><a href="#">Ajax</a></span>
+                    </div>
+                </li>
+                <li id="about"><a href="#">About</a></li>
+                <li id="contus"><a href="#">Contact us</a></li>
+            </ul>
+        </nav>
+        <div class="main-content" id="testContent">
+            <div class="left-content">
+                <img id="one" src="img/test.jpg">
+            </div>
+            <div class="right-content">
+                <div id="questionary">    
+                    <h1>Hello<span></span>,</h1>
+                    <div id="paragraphContent">
+                    <p>A test or examination (informally, exam) is an assessment intended to measure a test-taker's knowledge, skill, aptitude, physical fitness, or classification in many other topics (e.g., beliefs).<br/><br/>
+                    A test may be administered verbally, on paper, on a computer, or in a confined area that requires a test taker to physically perform a set of skills. Tests vary in style, rigor and requirements. For example, in a closed book test, a test taker is often required to rely upon memory to respond to specific items whereas in an open book test, a test taker may use one or more supplementary tools such as a reference book or calculator when responding to an item. A test may be administered formally or informally. An example of an informal test would be a reading test administered by a parent to a child. An example of a formal test would be a final examination administered by a teacher in a classroom or an I.Q. test administered by a psychologist in a clinic. Formal testing often results in a grade or a test score.<br/><br/>
+                    A test score may be interpreted with regards to a norm or criterion, or occasionally both. The norm may be established independently, or by statistical analysis of a large number of participants.<br/><br/>
+                    A standardized test is any test that is administered and scored in a consistent manner to ensure legal defensibility. Standardized tests are often used in education, professional certification, psychology (e.g., MMPI), the military, and many other fields.
+                        </p></div> 
+                    <div id="questionContent"></div>
+                </div>
+                <div class="submitbutton">               
+                </div>
+                <div class="nextbutton">                    
+                </div>
+                
+            </div>
+        </div>
+        <div class="main-content" id="aboutContent" style="display:none"> </div>
+        <div class="main-content" id="scoreContent" style="display:none">
+            <table>
+                <tr>
+                    <th colspan="2">Final Result</th>
+                </tr>
+                <tr>
+                    <td>Status</td>
+                    <td id="status"></td>
+                </tr>
+                <tr>
+                    <td>Final Score</td>
+                    <td id="score"></td>
+                </tr>
+                <tr>
+                    <td>Average</td>
+                    <td id="average"></td>
+                </tr>            
+            </table>
+        </div>
+        <div class="main-content" id="contactContent" style="display:none"></div>
+        <footer>
+            <p>Copyright &copy; 2015 SUG Inc. All rights reserved.</p>
+        </footer>
+    </body>
+
+        </html>
+    
